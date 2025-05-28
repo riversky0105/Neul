@@ -1,6 +1,6 @@
 my-streamlit-app/
-├── app.py
-└── requirements.txt
+    app.py
+    requirements.txt
 
 import streamlit as st
 import pandas as pd
